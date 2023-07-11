@@ -75,7 +75,7 @@ class Laser: #Laser
         return collide(self, obj)
 
 
-class Ship: #the player's spaceship
+class Ship: #Ship. General... Will be used for Player and Enemy
     COOLDOWN = 30 #shooting speed
 
     def __init__(self, x, y, health=100): #100 for health
