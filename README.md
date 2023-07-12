@@ -22,7 +22,7 @@ Hello~
     - Red spaceship = +3
 
 - ITEMS:
-	- Healthpack =  Restores player’s health. But only for current healthcare
+	- Healthpack =  Restores player’s health. But only for current healthbar
 	- LaserBeam = Increase firing speed to +10
 	- Shield = Immunity to bullets. But still gets damage from collision
 
